@@ -26,6 +26,14 @@
 .carousel-control-next span{
     margin-right:-230px;
 }
-.carousel a span{
-    color: blue!important;
+.fix {
+    position: relative;
+    top:5px;
+}
+.fix2{
+    margin-left: 50px;
+}
+.fix3{
+    position: relative;
+    left: 15px;
 }
